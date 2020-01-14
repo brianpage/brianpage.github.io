@@ -32,7 +32,7 @@ Graduate Teaching Assistant, Purdue University S 20
 Graduate Research Assistant, Michigan Technological University 2015 – 2018
 Graduate Teaching Assistant, Michigan Technological University F 15 , S 17 , & S 18
 Dynamics Summer School Fellow, Los Alamos National Lab 2015
-Technical Intelligence Officer Co-op, Central Intelligence Agency 2014
+Co-op, US Federal Government 2014
 Production Engineering Co-op, Marathon Petroleum 2014
 Undergraduate Research Assistant, Michigan Technological University 2013 – 2015
 ```
