@@ -16,16 +16,16 @@ page82@purdue.edu
 ## Education
 
 
-PhD Mechanical Engineering  | Expected S 2021
-Purdue University | Dissertation Title: Underwater Persistence
-~ |Dissertation Committee: Dr. Nina Mahmoudian (chair), Dr. Peter Meckl,
-~ |Dr. Xinyan Deng, and Dr. Mo Rastgaar
---- | ---
-MS Mechanical Engineering | 2016
-Michigan Technological University |Thesis Title: Design of Mobile Underwater Charging Station
---- | ---
-BS Mechanical Engineering| 2015
-Michigan Technological University | ~
+| PhD Mechanical Engineering | Expected S 2021 |
+| Purdue University | Dissertation Title: Underwater Persistence |
+| ~ |Dissertation Committee: Dr. Nina Mahmoudian (chair), Dr. Peter Meckl, |
+| ~ |Dr. Xinyan Deng, and Dr. Mo Rastgaar |
+|-----|-----| 
+| MS Mechanical Engineering | 2016 |
+| Michigan Technological University |Thesis Title: Design of Mobile Underwater Charging Station |
+|-----|-----|
+| BS Mechanical Engineering | 2015 |
+| Michigan Technological University | ~ |
 
 ## Employment
 
