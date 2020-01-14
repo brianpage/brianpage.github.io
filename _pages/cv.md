@@ -11,7 +11,7 @@ redirect_from:
 
 ```
 585 Purdue Mall, West Lafayette, IN 47907
-+ 1 ( 630 ) 795 - 9143 ·bpage@mtu.edu·page82@purdue.edu
+page82@purdue.edu
 ```
 ## Education
 
