@@ -1,6 +1,7 @@
 ---
 title: "test1"
-collection: conferences
+collection: publication
+pubtype: 'conference'
 permalink: /publication/2015-OCEANS
 excerpt: 'This letter presents the design and potential impact of the developed Research Oriented Underwater Glider for Hands-on Investigative Engineering (ROUGHIE).'
 date: 2016-10-12
