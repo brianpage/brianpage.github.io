@@ -1,0 +1,12 @@
+---
+title: "Rendezvous Planning for Multiple AUVs With Mobile Charging Stations in Dynamic Currents"
+collection: publications
+permalink: /publication/2019-RAL
+excerpt: 'This letter presents a mission planning method to generate mobile charger trajectories, given pre-defined working AUV trajectories, considering environmental constraints such as currents and obstacles. '
+date: 2019-02-01
+venue: 'IEEE Robotics and Automation Letters'
+paperurl: 'https://doi.org/10.1109/LRA.2019.2896899'
+citation: 'B. Li, B. R. Page, J. Hoffman, B. Moridian and N. Mahmoudian, "Rendezvous Planning for Multiple AUVs With Mobile Charging Stations in Dynamic Currents," in IEEE Robotics and Automation Letters, vol. 4, no. 2, pp. 1653-1660, April 2019.'
+---
+Operation of autonomous underwater vehicles (AUVs) in large spatiotemporal missions is currently challenged by onboard energy resources requiring manned support. With current methods, AUVs are programmed to return to a static charging station based on a threshold in their energy level. Although this approach has shown success in extending the operational life, it becomes impractical due to interruption of AUV operation and loss of energy needed to return to charging station. It is also not practical for large networks due to shortage of charging stations. We introduce mobile onsite power delivery, which will fundamentally change the range and duration of underwater operations. This letter presents a mission planning method to generate mobile charger trajectories, given pre-defined working AUV trajectories, considering environmental constraints such as currents and obstacles. The problem is formulated as a multiple generalized traveling salesman problem, which is then transformed into a traveling salesman problem. Energy cost in dynamic currents is integrated with a path planning algorithm using a grid-based environment model. A scheduling strategy extends the problem over multiple charging cycles. Simulation results show that the planning method significantly improves mission success and energy expenditure. Field experiments in Lake Superior using two types of AUVs, an unmanned surface vessel, and a manned support vessel validate the feasibility of the planned trajectories for long-term marine missions.
+[Download paper here](https://doi.org/10.1109/LRA.2019.2896899)
