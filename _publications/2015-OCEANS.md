@@ -1,0 +1,13 @@
+---
+title: "test1"
+collection: conferences
+permalink: /publication/2015-OCEANS
+excerpt: 'This letter presents the design and potential impact of the developed Research Oriented Underwater Glider for Hands-on Investigative Engineering (ROUGHIE).'
+date: 2016-10-12
+venue: 'IEEE Robotics and Automation Letters'
+paperurl: 'https://doi.org/10.1109/LRA.2016.2617206'
+citation: 'B. R. Page, S. Ziaeefard, A. J. Pinar and N. Mahmoudian, "Highly Maneuverable Low-Cost Underwater Glider: Design and Development," in IEEE Robotics and Automation Letters, vol. 2, no. 1, pp. 344-349, Jan. 2017. doi: 10.1109/LRA.2016.2617206'
+---
+This letter presents the design and potential impact of the developed Research Oriented Underwater Glider for Hands-on Investigative Engineering (ROUGHIE). The ROUGHIE is an open-source, highly maneuverable, and low-cost vehicle that enables rapid development and testing of new hardware and software. ROUGHIE is an internally actuated glider capable of performing steady sawtooth glides in shallow water down to 3 m, tight turns with a minimum radius of 3 m, and a minimum endurance of 60 h. The novelty of this study is twofold: 1) a rail-based design to facilitate modularity and ease of assembly and 2) an effective internal rotary mass mechanism to increase maneuverability and perform tight turns. The ROUGHIE design strategically uses 3D printed plastic parts in low stress situations, which allows extreme design flexibility and enables tightly packed modules that can be easily customized.
+
+[Download paper here](https://doi.org/10.1109/LRA.2016.2617206)
