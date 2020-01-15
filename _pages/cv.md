@@ -9,10 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-```
+<object data="https://brianpage.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://brianpage.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 585 Purdue Mall, West Lafayette, IN 47907
 page82@purdue.edu
-```
+
 ## Education
 
 | | |
