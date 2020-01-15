@@ -1,0 +1,13 @@
+---
+title: "Simulation-Driven Optimization of Underwater Docking Station Design"
+collection: publications
+permalink: /publication/2019-JOE
+excerpt: 'This paper presents the optimization of a novel docking design for docking and charging of autonomous underwater vehicles.'
+date: 2019-01-09
+venue: 'IEEE Journal of Oceanic Engineering'
+paperurl: 'https://doi.org/10.1109/JOE.2018.2885200'
+citation: 'B. R. Page and N. Mahmoudian, "Simulation-Driven Optimization of Underwater Docking Station Design," in IEEE Journal of Oceanic Engineering.'
+---
+This paper presents the optimization of a novel docking design for docking and charging of autonomous underwater vehicles. The docking design has been optimized to maximize the capture envelope and minimize the maximum contact force. Two design parameters, sweep angle and ramp angle, were optimized as was the velocity during terminal homing and capture. The optimization was an exhaustive optimization with 5600 unique simulations completed that included the vehicle hydrodynamics, impact dynamics, and controller. Unique to the presented docking design is the ability to support a wide variety of vehicles from different size classes through its simplified funnel design and use of a docking adapter as validated in simulation with a Dolphin II AUV and Bluefin SandShark. The only part of the docking system that contacts the vehicle is a standardized docking adapter that is meant as a drop-in replacement for an antenna mast. The presented docking system is low-cost, compact, and can be deployed in a wide variety of situations including mobile docking.
+
+[Download paper here](https://doi.org/10.1109/JOE.2018.2885200)
