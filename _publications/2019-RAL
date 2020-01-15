@@ -1,6 +1,7 @@
 ---
 title: "Rendezvous Planning for Multiple AUVs With Mobile Charging Stations in Dynamic Currents"
 collection: publications
+pubtype: 'journal'
 permalink: /publication/2019-RAL
 excerpt: 'This letter presents a mission planning method to generate mobile charger trajectories, given pre-defined working AUV trajectories, considering environmental constraints such as currents and obstacles. '
 date: 2019-02-01
